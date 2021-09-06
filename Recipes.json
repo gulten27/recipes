@@ -1,14 +1,14 @@
 [
   {
-    "name" : "Crock Pot Roast",
-    "ingredients" : "1 beef roast\n 1 package brown gravy mix\n 1 package dried Italian salad dressing mix\n 1 package dry ranch dressing mix\n 1/2 cup water\n",
-    "steps" : "Place beef roast in crock pot.\n Mix the dried mixes together in a bowl and sprinkle over the roast.\nPour the water around the roast.\nCook on low for 7-9 hours.\n",
-    "imageURL": "https://raw.githubusercontent.com/gulten27/recipes/master/roast.png"
+    "recipeName" : "Crock Pot Roast",
+    "recipeIngredients" : "1 beef roast\n 1 package brown gravy mix\n 1 package dried Italian salad dressing mix\n 1 package dry ranch dressing mix\n 1/2 cup water\n",
+    "recipeSteps" : "Place beef roast in crock pot.\n Mix the dried mixes together in a bowl and sprinkle over the roast.\nPour the water around the roast.\nCook on low for 7-9 hours.\n",
+    "recipeView": "https://raw.githubusercontent.com/gulten27/recipes/master/roast.png"
   },
   {
-    "name": "Roasted Asparagus",
-    "ingredients": "1 lb asparagus\n1 1/2 tbsp olive oil\n1/2 tsp kosher salt\n",
-    "steps" : "Preheat oven to 425°F.\nCut off the woody bottom part of the asparagus spears and discard.\nWith a vegetable peeler, peel off the skin on the bottom 2-3 inches of the spears (this keeps the asparagus from being all,string, and if you eat asparagus you know what I mean by that).\nPlace asparagus on foil-lined baking sheet and drizzle with olive oil.\nSprinkle with salt.\nWith your hands, roll the asparagus around until they are evenly coated with oil and salt.\nRoast for 10-15 minutes, depending on the thickness of your stalks and how tender you like them.\nThey should be tender when pierced with the tip of a knife.\nThe tips of the spears will get very brown but watch them to prevent burning.\nThey are great plain, but sometimes I serve them with a light vinaigrette if we need something acidic to balance out our meal.\n",
-    "imageURL": "https://raw.githubusercontent.com/gulten27/recipes/master/asparagus.png"
+    "recipeName": "Roasted Asparagus",
+    "recipeIngredients": "1 lb asparagus\n1 1/2 tbsp olive oil\n1/2 tsp kosher salt\n",
+    "recipeSteps" : "Preheat oven to 425°F.\nCut off the woody bottom part of the asparagus spears and discard.\nWith a vegetable peeler, peel off the skin on the bottom 2-3 inches of the spears (this keeps the asparagus from being all,string, and if you eat asparagus you know what I mean by that).\nPlace asparagus on foil-lined baking sheet and drizzle with olive oil.\nSprinkle with salt.\nWith your hands, roll the asparagus around until they are evenly coated with oil and salt.\nRoast for 10-15 minutes, depending on the thickness of your stalks and how tender you like them.\nThey should be tender when pierced with the tip of a knife.\nThe tips of the spears will get very brown but watch them to prevent burning.\nThey are great plain, but sometimes I serve them with a light vinaigrette if we need something acidic to balance out our meal.\n",
+    "recipeView": "https://raw.githubusercontent.com/gulten27/recipes/master/asparagus.png"
   }
 ]
